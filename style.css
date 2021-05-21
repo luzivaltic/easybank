@@ -92,6 +92,7 @@
 
 .nav-bar .invite-button img {
     display: none;
+    cursor: pointer;
 }
 
 .invite-button {
