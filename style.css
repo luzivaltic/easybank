@@ -90,6 +90,12 @@
     transform: scaleX(1);
 }
 
+.nav-bar .invite-button .ham-container {   
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
 .nav-bar .invite-button img {
     display: none;
     cursor: pointer;
